@@ -1,0 +1,6 @@
+# OS Cache
+.trash/
+.DS_Store
+
+# Build fragments
+bin/
